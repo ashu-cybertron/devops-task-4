@@ -1,2 +1,4 @@
 # devops-task-4
-task 4 as project of devops training by Mr. Vimal Daga 
+#This is the task k4 of devops training under the mentorship of Mr. Vimal Daga
+
+#thank you sir for teaching so deeply...!!!
